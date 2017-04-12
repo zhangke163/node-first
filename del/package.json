@@ -1,0 +1,6 @@
+{
+  "name": "del",
+  "bin":{
+    "demo":"del.js"
+  }
+}

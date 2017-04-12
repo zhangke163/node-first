@@ -1,0 +1,6 @@
+{
+  "name": "news",
+  "bin":{
+    "demo":"new.js"
+  }
+}
